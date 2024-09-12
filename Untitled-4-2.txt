@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<html lang="en-US">
+    <head>
+    	<title>The Local Hoilday News</title>
+    	<h1><strong>KK's Cupcakes & Cookies Branches Out To Dog Treats</strong></h1>
+    	<p1>
+    		KK's Cupcakes & Cookies was strictly only baked goods but now KK herself is branching out to dog treats. 
+    	</p1>
+    	<hr />
+    	<p1><i>
+    		"I have always been around dogs my entire life, so when the opertunity came up I took it to branch my business out to dog treats. They will be gut healthy and completely customizable for your pet!"
+    	</i></p1>
+    	<hr />
+    	<p1>
+    		KK's option for completely customizable dog treats has had a amazingly positive response on the internet. She already has 15 customized pre-orders in place for the dog treat launch. 
+    	</p1>
+    	<hr />
+    	<h2><strong>Dog Treat Sales Have Spiked!!</strong></h2>
+    	<p2>
+    		In the last three months retail stores as well as small businesses report that there has been an uprising in dog treat sales by 20%. Many think it's due to the uprising population of dogs in the city being adopted from dog shelters. In the last three months the amount of dogs adopted has increased by 10%!
+    	<hr />
+    	<p3>
+    		The holidays have been amazing for the local animal shelters with 75% of dogs getting rehomed for this holiday season. And it's not just the dogs being rehomed but the percentage of cats that have been rehomed has spiked as well.
+    </head>
+</html>
+    	
